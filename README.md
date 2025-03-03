@@ -1,6 +1,4 @@
-# Kind of a Reminder
-
-This repository serves as a gentle reminder to set up portainer
+This repository serves as a reminder to set up portainer
 
 ## access
 
